@@ -1,0 +1,37 @@
+{
+  "name": "techdegree-project-8",
+  "version": "1.0.0",
+  "description": "Build a front-end website with Gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaltamirano1/techdegree-project-8.git"
+  },
+  "keywords": [
+    "javascript",
+    "gulp"
+  ],
+  "author": "Angel Altamirano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaltamirano1/techdegree-project-8/issues"
+  },
+  "homepage": "https://github.com/aaltamirano1/techdegree-project-8#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-image": "^4.3.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
